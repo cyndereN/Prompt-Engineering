@@ -118,3 +118,21 @@ Ask it to extract information and organize it in a table.
 - Identify types of emotions
 - Extract product and company name from customer reviews
 - Inferring topics
+
+## 6. Transforming
+
+- Translation
+- Tone Transformation
+- Format Conversion
+- Spellcheck/Grammar check
+
+## 7. Expanding
+
+"Temperature": different every time
+```
+response = get_completion(prompt, temperature=0.7)
+```
+
+## 7. Chatbot
+
+use chatgpt as a chatbot
